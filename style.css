@@ -1,0 +1,21 @@
+.nav-links{
+    justify-content: center;
+    color:white;
+}
+.box{
+    text-align: center;
+    color: brown;
+    justify-content: space-between;
+
+}
+.tlt{
+    text-align: center;
+    color:#222222 ;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+.pic{
+    text-align: center;
+}
+.navbar{
+    text-align: left;
+}
